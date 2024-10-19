@@ -1,0 +1,142 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+
+    <title>MHT-LY-1</title>
+  </head>
+
+  <body>
+<!-- Add icon library -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+<style>
+.logo {
+  text-align: right;
+}
+</style>
+
+<!-- Add font awesome icons -->
+<div class="logo">
+    <a href="#" class="fa fa-facebook"></a>
+    <a href="#" class="fa fa-twitter"></a>
+</div>
+
+
+  <nav class="navbar navbar-expand-lg navbar-light bg-light">
+  <div class="container-fluid ">
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+    <img src="https://picsum.photos/70/100" alt="logo">
+      <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+      
+        <li class="nav-item mx-auto">
+        
+          <a class="nav-link active text-danger" aria-current="page" href="#">About Us</a>
+        </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+            Patients
+          </a>
+          <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+          </ul>
+        </li>
+
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+            Specialities
+          </a>
+          <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+          </ul>
+        </li>
+
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+            Our Doctors
+          </a>
+          <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+          </ul>
+        </li>
+
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+            Health & Wellness
+          </a>
+          <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+          </ul>
+        </li>
+
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+            Patient Stories
+          </a>
+          <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+          </ul>
+        </li>
+
+
+      </ul>
+      <form class="d-flex">
+     <button type="button" class="btn btn-outline-success">Book An Appointment</button>
+      </form>
+    </div>
+  </div>
+</nav>
+
+
+
+<div class="container text-center px-0 mt-4 mb-2 bg-success text-white">
+  <div class="row">
+    <div class="col-3">
+      <p>meenakshi hospital....</p>
+      <br>
+      <h4>Contact Info</h4>
+      <p>meenakshi hospital....</p>
+      <p>call: 0436 226 678</p>
+
+
+    </div>
+    <div class="col-3">
+      <h4>Useful Links</h4>
+      <ul class="list-unstyled"> 
+        <li>Our Doctors</li>
+        <li>About Us</li>
+        <li>Specialities</li>
+        <li>Health & Wellness</li>
+        <li>Contact Us</li>
+        <li>News & Events</li>
+    </ul>
+
+    </div>
+    <div class="col-3">
+      <h4>Blog Posts</h4>
+      
+    </div>
+
+    <div class="col-3">
+      <h4>Our Location</h4>
+    </div>
+  </div>
+</div>
+
+
+
+
+
+    
+
+
+
+    <!-- Option 1: Bootstrap Bundle with Popper -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+
+ 
+  </body>
+</html>
